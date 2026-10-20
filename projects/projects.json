@@ -1,0 +1,102 @@
+[
+  {
+    "id": "portfolio-website",
+    "title": "Personal Portfolio Website",
+    "description": "Beige and sage React portfolio with interactive project filters, certifications, and contact — deployed free on GitHub Pages.",
+    "tech": ["React", "Vite", "CSS", "GitHub Pages"],
+    "course": "Personal",
+    "year": 2026,
+    "path": "projects/portfolio-website",
+    "demo": "https://resham81.github.io/Resham-Projects/"
+  },
+  {
+    "id": "disease-simulation",
+    "title": "Disease Spread Simulation",
+    "description": "Grid-based population simulation that models how a disease spreads, with NumPy and Matplotlib visualization.",
+    "tech": ["Python", "NumPy", "Matplotlib"],
+    "course": "FOP",
+    "year": 2024,
+    "path": "projects/disease-simulation",
+    "demo": null
+  },
+  {
+    "id": "data-structures",
+    "title": "Data Structures Assignment",
+    "description": "Interactive autonomous vehicle management system using a custom deque, graphs, and sorting algorithms in Python.",
+    "tech": ["Python"],
+    "course": "DSA",
+    "year": 2025,
+    "path": "projects/data-structures",
+    "demo": null
+  },
+  {
+    "id": "film-festival-database",
+    "title": "Film Festival Database",
+    "description": "Full MySQL schema for film festivals, films, and awards, with advanced SQL features and a Python connector.",
+    "tech": ["MySQL", "SQL", "Python"],
+    "course": "DBS",
+    "year": 2025,
+    "path": "projects/film-festival-database",
+    "demo": null
+  },
+  {
+    "id": "unix-prime-checker",
+    "title": "Unix Prime Checker",
+    "description": "C program using system calls, file I/O, and parent/child processes with pipes to check primes from a file.",
+    "tech": ["C", "Unix", "Makefile"],
+    "course": "USP",
+    "year": 2025,
+    "path": "projects/unix-prime-checker",
+    "demo": null
+  },
+  {
+    "id": "snake-treasure-game",
+    "title": "Snake Treasure Game",
+    "description": "Terminal C game where you navigate a map, avoid a snake, and collect treasure, built with linked lists and a Makefile.",
+    "tech": ["C", "Linked lists", "Makefile"],
+    "course": "C Programming",
+    "year": 2025,
+    "path": "projects/snake-treasure-game",
+    "demo": null
+  },
+  {
+    "id": "helpera",
+    "title": "HelpEra",
+    "description": "HCI / UI-UX group project (UXplorers) — app concept designed in Figma with research, reports, and walkthrough materials.",
+    "tech": ["Figma", "UI/UX", "HCI"],
+    "course": "HCI",
+    "year": 2026,
+    "path": "projects/helpera",
+    "demo": "https://www.figma.com/proto/dsLX75NhBuBNsLqNu9tgYn/Uxplorers---HelpEra?node-id=1161-2608&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1161%3A2608&show-proto-sidebar=1"
+  },
+  {
+    "id": "network-system-design",
+    "title": "Network System Design",
+    "description": "Group network system design assignments covering architecture and design documentation.",
+    "tech": ["Network design"],
+    "course": "NSD",
+    "year": 2025,
+    "path": "projects/network-system-design",
+    "demo": null
+  },
+  {
+    "id": "eco-travel-hub",
+    "title": "EcoTravelHub",
+    "description": "Group business and app concept for sustainable travel, with an AWS demo video and business report.",
+    "tech": ["AWS", "Business analysis"],
+    "course": "MCC",
+    "year": 2025,
+    "path": "projects/eco-travel-hub",
+    "demo": null
+  },
+  {
+    "id": "cs-final-assignment",
+    "title": "CS Final Assignment",
+    "description": "Group final assignment report for Computer Science coursework.",
+    "tech": ["Report"],
+    "course": "CS",
+    "year": 2025,
+    "path": "projects/cs-final-assignment",
+    "demo": null
+  }
+]
